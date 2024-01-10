@@ -79,3 +79,6 @@ Here is a summary of the PDF document:
 - **Application Mapping**: The paper discusses how the vision-based navigation application is mapped onto the proposed platform, showing the resource occupancy, the reconfiguration time, and the execution time of each accelerator. It also compares the results with a non-reconfigurable baseline implementation.
 - **Experimental Results**: The paper evaluates the proposed architecture and the fault mitigation techniques using a radiation test campaign with protons and heavy ions. It reports the number and type of faults observed, the fault coverage achieved, and the impact of the faults on the application output. It also compares the results with a non-reconfigurable baseline implementation.
 - **Conclusions and Future Work**: The paper concludes that the proposed reconfigurable architecture provides a cost-efficient and flexible solution for on-board processing in space applications, enabling the reuse of a single device for multiple non-concurrent tasks and enhancing the system reliability¹[1]. It also identifies some limitations and challenges for future work, such as the need for more accurate fault injection tools, the development of more sophisticated fault mitigation techniques, and the extension of the architecture to support multi-device reconfiguration.
+
+
+##10/01/24 0th review
