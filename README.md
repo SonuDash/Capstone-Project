@@ -81,4 +81,4 @@ Here is a summary of the PDF document:
 - **Conclusions and Future Work**: The paper concludes that the proposed reconfigurable architecture provides a cost-efficient and flexible solution for on-board processing in space applications, enabling the reuse of a single device for multiple non-concurrent tasks and enhancing the system reliability¹[1]. It also identifies some limitations and challenges for future work, such as the need for more accurate fault injection tools, the development of more sophisticated fault mitigation techniques, and the extension of the architecture to support multi-device reconfiguration.
 
 
-##10/01/24 0th review
+## 10/01/24 0th review
