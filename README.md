@@ -70,16 +70,34 @@ There is key change in the proceedings the project has been renamed to FPGA base
 Here is a summary of the PDF document:
 
 - **Introduction**: The paper presents a reconfigurable architecture for an on-board processor to be used in space exploration missions¹[1]²[2]. It uses a COTS reconfigurable MPSoC and dynamic partial reconfiguration to provide adaptive performance, dependability, and power consumption. The processor is applied to a vision-based navigation system that requires different image processing algorithms depending on the mission phase³[3].
+  
 - **Use Case Scenario**: The paper describes a scenario where a spacecraft lander carries a rover to be deployed on an astronomical body⁴[4]. The lander uses a camera to perform absolute and relative navigation based on surface features detection and matching⁵[5]. The rover uses stereo vision to navigate on the terrain. The paper proposes to use a single FPGA device to host different accelerators for each navigation mode, using reconfiguration to switch between them.
+  
 - **Related Work**: The paper reviews the state-of-the-art in the use of rad-hard and COTS FPGAs and MPSoCs in space missions, as well as the techniques for exploiting dynamic and partial reconfiguration for functional adaptation and fault mitigation⁶[6].
+  
 - **Background Information**: The paper provides relevant information about the Zynq UltraScale+ MPSoC architecture, the RTEMS real-time operating system, and the ARTICo3 framework for reconfigurable multi-accelerator systems.
+  
 - **System Architecture**: The paper describes the proposed on-board processor architecture, which consists of a software subsystem running on the RPU of the Zynq UltraScale+ device, and a hardware subsystem composed of four reconfigurable slots managed by the ARTICo3 framework. The software subsystem includes mission-specific tasks, reconfiguration tasks, and fault detection, isolation, and recovery tasks. The hardware subsystem includes different accelerators for the vision-based navigation algorithms.
+  
 - **Hardware Subsystem Management**: The paper explains how the reconfiguration and data-handling tasks control the mode changes and the data transfers between the software and hardware subsystems. It also details how the ARTICo3 primitives are integrated in the mission-specific tasks to invoke the accelerators.
+  
 - **Fault Mitigation Techniques**: The paper presents the fault mitigation techniques applied to the proposed architecture, which include a reconfiguration-aware readback scrubber, a reconfiguration-aware SEM-IP, and a reconfiguration-aware watchdog. It also analyzes the performance and overhead of these techniques, as well as the worst-case fault detection and correction times.
+  
 - **Application Mapping**: The paper discusses how the vision-based navigation application is mapped onto the proposed platform, showing the resource occupancy, the reconfiguration time, and the execution time of each accelerator. It also compares the results with a non-reconfigurable baseline implementation.
+  
 - **Experimental Results**: The paper evaluates the proposed architecture and the fault mitigation techniques using a radiation test campaign with protons and heavy ions. It reports the number and type of faults observed, the fault coverage achieved, and the impact of the faults on the application output. It also compares the results with a non-reconfigurable baseline implementation.
+  
 - **Conclusions and Future Work**: The paper concludes that the proposed reconfigurable architecture provides a cost-efficient and flexible solution for on-board processing in space applications, enabling the reuse of a single device for multiple non-concurrent tasks and enhancing the system reliability¹[1]. It also identifies some limitations and challenges for future work, such as the need for more accurate fault injection tools, the development of more sophisticated fault mitigation techniques, and the extension of the architecture to support multi-device reconfiguration.
 
 
 ## 10/01/24 0th review
 11:20 AM
+Response:
+- Overly negative
+- Panelists wanted something more specific
+- Decision to make the project more of payload calculation specific
+
+
+## 11/01/24
+Research on SolSat intensified
+New repo to be commited soon.
