@@ -101,3 +101,9 @@ Response:
 ## 11/01/24
 Research on SolSat intensified
 New repo to be commited soon.
+
+
+## 12/01/24
+Not much progress
+Need to research specifically about the payload more
+meeting on 13/01/24 8pm
