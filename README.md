@@ -107,3 +107,7 @@ New repo to be commited soon.
 Not much progress
 Need to research specifically about the payload more
 meeting on 13/01/24 8pm
+
+## 17/01/24
+- Base paper for payload decided
+- Literature review done
