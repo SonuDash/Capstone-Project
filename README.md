@@ -114,6 +114,8 @@ meeting on 13/01/24 8pm
 - 
 
 ## 25/01/24
-Progress restarted
+- Progress restarted
+
+#### A flow diagram for the first draft of the FPGA sat design
 ![image](https://github.com/SonuDash/Capstone-Project/assets/72654041/62d09267-d695-48ea-9a8d-5221fe1b42fe)
 
