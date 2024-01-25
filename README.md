@@ -111,7 +111,7 @@ meeting on 13/01/24 8pm
 ## 17/01/24
 - Base paper for payload decided
 - Literature review done
-- 
+
 
 ## 25/01/24
 - Progress restarted
