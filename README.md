@@ -122,3 +122,5 @@ meeting on 13/01/24 8pm
 ## 01/02/2024
 -Documentation for magnetometer: [https://www.farnell.com/datasheets/1683374.pdf] 
 
+## 02/02/2024
+-FPGA decided
