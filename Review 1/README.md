@@ -8,5 +8,7 @@ FPGA decided:
 3. ZYNQ-ULTRASCALE MPSOC ZCU-104 [https://www.xilinx.com/products/boards-and-kits/zcu104.html]
 
 
-[https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020SW002641]
+Ref - 1: [https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020SW002641]
 ![image](https://github.com/SonuDash/Capstone-Project/assets/72654041/41712289-79a2-4fdc-9965-6997f98a08be)
+
+Ref - 2: [https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/91rg00994]
