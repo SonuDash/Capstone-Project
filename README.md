@@ -124,3 +124,5 @@ meeting on 13/01/24 8pm
 
 ## 02/02/2024
 -FPGA decided
+
+[https://www.gfz-potsdam.de/en/section/geomagnetism/data-products-services/kp-index/conversion-tables]
